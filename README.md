@@ -14,4 +14,4 @@ A simple Bash-based port scanner using `netcat (nc)` to scan open TCP ports on a
 - Can optionally push scan logs to a GitHub repo
 
 ---
-![Screenshot of Port Scanner](./Screenshot 2025-07-27 010405.png)
+![Screenshot of Port Scanner](./Screenshot.png)
